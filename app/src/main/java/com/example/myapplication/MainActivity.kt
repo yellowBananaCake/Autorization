@@ -32,10 +32,6 @@ class MainActivity : AppCompatActivity() {
             }else{
                 binding.textViewLog.setText("Неправильный логин или пароль")
             }
-
-//            binding.TextViewLog.text = pass
-
-//            startForResult.launch(intent)
         }
 
 
